@@ -1,0 +1,1712 @@
+Key: OOL
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: a
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: abstract
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: academia
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: accomplish
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+Key: accomplishing
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 27
+
+Key: accordance
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+Key: act
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: addition
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 19
+
+Key: advance
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: algorithms
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 19
+
+Key: algorithms’
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: analyses
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: analysis
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 19
+
+Key: analyzing
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: application
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: applications
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: apply
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: aspects
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 4
+
+Key: beginning
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 26
+
+Key: behavior
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 27
+
+Key: book
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 4
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: brief
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: built
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: c
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: c++
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: called
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+Key: chapters
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: characteristics
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: choice
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+Key: chosen
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: class
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: code
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: coding
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: complete
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: complex
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+Key: complexity
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 19
+
+Key: component
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+Key: comprehensive
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: computation
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: computer
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: concerned
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 26
+
+Key: connection
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: containing
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: context
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: course
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: covered
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 18
+
+Key: current
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+Key: data
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 4
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 10
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: decides
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: decomposition
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: definition
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: delayed
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 23
+
+Key: depth
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 18
+
+Key: descendant
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: design
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+Key: detail
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 19
+
+Key: detailed
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+Key: details
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 23
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: direct
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: discussed
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: discussion
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: education
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: efficiency
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: efficient
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: emphasis
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: encapsulation
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: ensure
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: equally
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: example
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: examples
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: excellent
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: execution
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: facets
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: fairly
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+Key: fields
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: file
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: finally
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+Key: foundation
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: fundamental
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: gears
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 27
+
+Key: hence
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: highlights
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 4
+
+Key: idea
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+Key: illustrate
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: illustrates
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: implementation
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 23
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: implemented
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+Key: implementing
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: importance
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: include
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: included
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: including
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: indicate
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: industry
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: information-hiding
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: inner
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+Key: input
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+Key: integrated
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: interpreters
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: introducing
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 10
+
+Key: introductory
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: item
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+Key: justified
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: kinds
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: knowledge
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: language
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: larger
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+Key: leads
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+Key: level
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: link
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: maintenance
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: material
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: mechanism
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 27
+
+Key: mentioned
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 18
+
+Key: modifying
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: natural
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 10
+
+Key: object
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: object-oriented
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: operations
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: oriented
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: outline
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+Key: output
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+Key: paradigm
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+Key: particular
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+Key: perform
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: performed
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+Key: perspective
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: phase
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+Key: placed
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: practical
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: precede
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: precisely
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+Key: presentation
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: presentations
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: principle
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: process
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: processing
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: program
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 26
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 27
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: programming
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: project
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 22
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 23
+
+Key: proper
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: provide
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: range
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: reader
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: recursion
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 18
+
+Key: requirements
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 21
+
+Key: requires
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: science
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: scope
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: searching
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: serves
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+Key: setting
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+Key: so
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+Key: software
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: space
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: specified
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+Key: specify
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+Key: stages
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 23
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 26
+
+Key: start
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 30
+
+Key: storing
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 29
+
+Key: stressed
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 7
+
+Key: strong
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+Key: structure
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 8
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: structures
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 4
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 5
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 6
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 10
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 17
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 24
+
+Key: students
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 3
+
+Key: studies
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: study
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 1
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 12
+
+Key: subject
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: symbolic
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: system
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: task
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+Key: tasks
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+Key: teach
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: terms
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 25
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 28
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+Key: testing
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: theoretical
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 15
+
+Key: throughout
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 14
+
+Key: thrust
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: time
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 31
+
+Key: topics
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: treated
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: type
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 32
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
+Key: types
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 34
+
+Key: understanding
+References:
+	Chapter Number: 1
+	Page Number: 3
+	Line Number: 16
+
+Key: useful
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 10
+
+Key: using
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+Key: virtually
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: wide
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 11
+
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 13
+
+Key: widespread
+References:
+	Chapter Number: 1
+	Page Number: 2
+	Line Number: 9
+
+Key: wish
+References:
+	Chapter Number: 1
+	Page Number: 1
+	Line Number: 2
+
+Key: written
+References:
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 20
+
+	Chapter Number: 2
+	Page Number: 4
+	Line Number: 33
+
